@@ -1,0 +1,9 @@
+C 122001 Justin Peters just@lab6.com 234567 5423.0
+S 132002 Frank Perry Fra@lab6.com 432345 9563.2800284375
+C 122006 Paul Merci Pau@lab6.com 765123 6273.0
+S 122004 James Lead james@lab6.com 432145 2006.65
+C 133070 Crispin Long cris@lab6.com 334455 4450.0
+C 133092 Brand Terry bra@lab6.com 443366 3300.28
+S 133008 Mark Rancy mar@lab6.com 765123 6400.0
+S 133005 Jean Puddy jean@lab6.com 432145 3000.65
+S 144004 James Mwangi jm@lab6.com 444444 8000.0
